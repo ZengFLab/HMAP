@@ -1,0 +1,3 @@
+[console_scripts]
+HMAP = HMAP.HMAP:main
+HMAPSC = HMAP.HMAPSC:main

@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: HMAP
+Version: 1.0
+Summary: Hierarchical Manifold Approximation and Projection for Single Cell Data
+Home-page: https://github.com/ZengFLab/HMAP
+Author: Feng Zeng
+Author-email: zengfeng@xmu.edu.cn
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: dill==0.3.8
+Requires-Dist: scanpy
+Requires-Dist: datatable
