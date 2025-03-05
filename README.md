@@ -2,7 +2,7 @@
 
 HMAP develop a hierarchical deep generative topographic mapping algorithm to realize the recovery of both **global and local** manifolds underlying the given data.
 
-![](./img/figure1.png)
+<img src="./img/figure1.png" alt="" width="50%">
 
 ## Installation
 1. Download HMAP and enter the directory
