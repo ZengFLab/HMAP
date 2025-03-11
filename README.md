@@ -10,6 +10,9 @@ HMAP develop a hierarchical deep generative topographic mapping algorithm to rea
 ## Example
 [HERE](./example)
 
+## Metacell calling
+HMAP also provides the supervised model, allowing the computation of global and local embeddings under the supervision of given metacells. For calling metacells, users can refer to [HERE](https://github.com/ZengFLab/SUREv2).
+
 ## Installation
 1. Download HMAP and enter the directory
 ```bash
