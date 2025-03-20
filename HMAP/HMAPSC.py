@@ -1369,7 +1369,7 @@ def main():
         dtype=dtype,
     )
 
-    hmapsc.fit(xs, us, 
+    hmapsc.fit(xs, us = us, 
              num_epochs=args.num_epochs,
              learning_rate=args.learning_rate,
              batch_size=args.batch_size,

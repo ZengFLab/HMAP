@@ -2140,7 +2140,7 @@ def main():
         dtype=dtype,
     )
 
-    hmapscmo.fit(xs1, xs2, us, 
+    hmapscmo.fit(xs1, xs2, us = us, 
                num_epochs=args.num_epochs,
                learning_rate=args.learning_rate,
                batch_size=args.batch_size,

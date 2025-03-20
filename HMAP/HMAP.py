@@ -880,7 +880,7 @@ def main():
         dtype=dtype,
     )
 
-    hmap.fit(xs, us, 
+    hmap.fit(xs, us = us, 
              num_epochs=args.num_epochs,
              learning_rate=args.learning_rate,
              batch_size=args.batch_size,
